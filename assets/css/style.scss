@@ -5,17 +5,4 @@ $header-bg-color: #6E4D9B;
 $header-bg-color-secondary: #048bd9;
 $section-headings-color: #6E4D9B;
 
-nav ul {
-    list-style-type: none;
-}
-nav li {
-    line-height: 30px;
-}
-nav a {
-    text-decoration: none;
-}
-nav li.active a {
-    color: #ffffff;
-}
-
 @import "{{ site.theme }}";
