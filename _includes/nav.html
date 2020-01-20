@@ -1,8 +1,24 @@
-<p style="text-align: center; background-color: white;">
-  <a href="{{site.baseurl}}/">Home</a> |
-  <a href="{{site.baseurl}}/admin/">Admin</a> | 
-  <a href="{{site.baseurl}}/schedule/week_1/">Week 1</a> | 
-  <a href="{{site.baseurl}}/schedule/week_2/">Week 2</a> | 
-  <a href="{{site.baseurl}}/schedule/week_3/">Week 3</a> | 
-  <a href="{{site.baseurl}}/general/">Misc</a>
-</p>
+<nav>
+  <ul>
+    {% for nav in site.data.nav %}
+      {% if nav.subcategories != null %}
+        <li>
+          <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }} ▼</a>
+          <ul>
+          {% for subcategory in nav.subcategories %}
+            <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+          {% endfor %}
+          </ul>
+        </li>
+      {% elsif nav.title == page.title %}
+         <li class="active">
+           <a href="{{ nav.url }}">{{ nav.title }}</a>
+         </li>
+      {% else %} 
+        <li>
+          <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav> 
