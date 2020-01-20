@@ -24,20 +24,22 @@ li a {
   text-decoration: none;
 }
 
-a:hover {
+a:hover:not(.active) {
   background-color: #111;
 }
 
 .active {
   background-color:#333;
   color: white;
+  font-family: "Lucida Console";
+  font-weight: bold;
 }
 </style>
 </head>
 <body>
 
 <ul>
-  <li><a class="active" href="#home">Home</a></li>
+  <li><a class="active" href="#home">BREAK</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
