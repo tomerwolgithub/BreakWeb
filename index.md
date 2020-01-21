@@ -25,7 +25,7 @@ Syntax highlighted code block
 > Talent wins games,
 > but teamwork and intelligence wins championships.
 
-*Michael Jordan* :goat: :basketball:
+*Michael Jordan*
 
 First Header | Second Autor | Third Autor | Fourth Autor | Fifth Autor | Sixth Autor | Seventh Autor 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -34,7 +34,7 @@ First Image | Second Image | Second Image | Second Image | Second Image | Second
 
 ### **Markdown**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you use Break in your research, please cite our paper with the following BibTeX entry
 
 ```markdown
 @inproceedings{some2020paper,
