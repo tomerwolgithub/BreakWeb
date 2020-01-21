@@ -3,7 +3,7 @@
   <img src="images/AI2_Logo_3color.png" height="100">
 </p>
 
-## Break: A Question Understanding Benchmark
+## A Question Understanding Benchmark
 
 Test text....
 
