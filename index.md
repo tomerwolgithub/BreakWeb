@@ -6,7 +6,8 @@ You can use the [editor on GitHub](https://github.com/tomerwolgithub/BreakWeb/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![GitHub Logo](/images/tau_nlp-1.png){ width=50% }
+<img src="/images/tau_nlp-1.png" width="200">
+
 ![GitHub Logo](/images/AI2_Logo_3color.png)
 
 
