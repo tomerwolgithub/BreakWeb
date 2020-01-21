@@ -40,9 +40,9 @@ Publication Venue 2020
 *Michael Jordan*
 
 
-<img src="images/icon.png" height="60">  |  <img src="images/icon.png" height="60">
+<img src="images/icon.png" height="60">  |  <img src="images/icon.png" height="60">  |  <img src="images/icon.png" height="60">  |  <img src="images/icon.png" height="60">  |  <img src="images/icon.png" height="60">  |  <img src="images/icon.png" height="60">  |  <img src="images/icon.png" height="60">
 :-------------------------:|:-------------------------:
-Solarized dark             |  Solarized Ocean
+Author1             |  Author2  |  Author3  |  Author4  |  Author5  |  Author6  |  Author7
 
 
 ## **Leaderboard**
