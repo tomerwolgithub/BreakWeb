@@ -16,6 +16,8 @@ Contains questions over modality 1 from <a href="somelink">**Dataset1**</a>, <a 
 Contains questions over modality 2 from <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a> and <a href="somelink">**Dataset1**</a>.  
 Contains questions over modality 3 from <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a> and <a href="somelink">**Dataset1**</a>.  
 
+<img src="images/qdmr.png" height="100">
+
 
 ## **Paper**
 
