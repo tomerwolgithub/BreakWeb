@@ -39,10 +39,34 @@ Publication Venue 2020
 
 *Michael Jordan*
 
-First Header | Second Autor | Third Autor | Fourth Autor | Fifth Autor | Sixth Autor | Seventh Autor 
+First Header | Second Author | Third Autor | Fourth Autor | Fifth Autor | Sixth Autor | Seventh Autor 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 First Image | Second Image | Second Image | Second Image | Second Image | Second Image | Second Image
 
+
+<div float="left>
+  <div>
+    First Author  
+  </div>
+  <div>
+    Second Author  
+  </div>
+  <div>
+    Third Author  
+  </div>
+  <div>
+    Fourth Author  
+  </div>
+  <div>
+    Fifth Author  
+  </div>
+  <div>
+    Sixth Author  
+  </div>
+  <div>
+    Seventh Author  
+  </div>
+</div> 
 
 ## **Leaderboard**
 
@@ -53,5 +77,5 @@ Official Leaderboard submission.
 
 Rank | Submission | Created | EM Dev. | EM Test
 ------------ | ------------- | ------------- | ------------- | -------------
-First Model | First Model | First Model | `00.00`  | `00.00`
-Second Model | Second Model | Second Model | `00.00`  | `00.00` 
+1 | First Model | First Model | `00.00`  | `00.00`
+2 | Second Model | Second Model | `00.00`  | `00.00` 
