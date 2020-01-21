@@ -104,3 +104,10 @@ Rank | Submission | Created | EM Dev. | EM Test
 ------------ | ------------- | ------------- | ------------- | -------------
 1 | First Model | First Model | `00.00`  | `00.00`
 2 | Second Model | Second Model | `00.00`  | `00.00` 
+
+
+## **Explore**
+Click here 
+
+## **Download**
+Click here
