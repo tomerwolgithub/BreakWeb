@@ -17,7 +17,12 @@ Released February 2020.
 ## **Paper**
 
 ```markdown
-Syntax highlighted code block
+@inproceedings{some2020paper,
+  title={Paper Title},
+  author={FirstName1, LastName1 and FirstName2, LastName2 and FirstName3, LastName3 and FirstName4, LastName4 and FirstName5, LastName5 and FirstName6, LastName6 and FirstName7, LastName7},
+  booktitle={The Journal},
+  year={2020}
+}
 ```
 
 ## **Authors**
@@ -37,13 +42,6 @@ First Image | Second Image | Second Image | Second Image | Second Image | Second
 If you use Break in your research, please cite our paper with the following BibTeX entry
 
 ```markdown
-@inproceedings{some2020paper,
-  title={Paper Title},
-  author={FirstName1, LastName1 and FirstName2, LastName2 and FirstName3, LastName3 and FirstName4, LastName4 and FirstName5, LastName5 and FirstName6, LastName6 and FirstName7, LastName7},
-  booktitle={The Journal},
-  year={2020}
-}
-```
 
 # Header 1
 ## Header 2
