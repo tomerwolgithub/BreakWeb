@@ -101,9 +101,6 @@ Publication Venue 2020
 *Michael Jordan*
 
 
-<img src="images/author_first.jpg" height="70">  |  <img src="images/icon.png" height="70">  |  <img src="images/icon.png" height="70">  |  <img src="images/icon.png" height="70">  |  <img src="images/icon.png" height="70">  |  <img src="images/icon.png" height="70">  |  <img src="images/icon.png" height="70">
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-Author1             |  Author2  |  Author3  |  Author4  |  Author5  |  Author6  |  Author7
 
 
 ## **Leaderboard**
