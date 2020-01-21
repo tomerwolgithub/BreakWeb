@@ -44,11 +44,13 @@ First Author | Second Author | Third Autor | Fourth Autor | Fifth Autor | Sixth 
 First Image | Second Image | Second Image | Second Image | Second Image | Second Image | Second Image
 
 <p float="left">
+  <img src="images/icon.png" height="100">
   <a>
-    some text
+    Author1
   </a>
+  <img src="images/icon.png" height="100">
   <a>
-    other text
+    Author2
   </a>
 </p>
 
