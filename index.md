@@ -18,7 +18,7 @@ Released February 2020.
 
 ```markdown
 Syntax highlighted code block
-
+```
 
 ## **Authors**
 
