@@ -11,7 +11,7 @@
 ## **A Question Understanding Benchmark**
 
 Released February 2020.  
-[Link to blogpost](./blogpost.html).
+[Link to blogpost](/blogpost.html).
 
 - Merit number one
 - Merit number two
