@@ -51,7 +51,7 @@ Official Leaderboard submission.
 
 ### **Results**
 
-Rank | Submission | Created | EM Dev. | EM Test
+Rank :white_check_mark: | Submission | Created | EM Dev. | EM Test
 ------------ | ------------- | ------------- | ------------- | -------------
-First Model | First Model | First Model | First Model | First Model 
-Second Model | Second Model | Second Model | Second Model | Second Model 
+First Model | First Model | First Model | First Model | `renders`
+Second Model | Second Model | Second Model | Second Model | `renders` 
