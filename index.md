@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# **A Question Understanding Benchmark**
+## **A Question Understanding Benchmark**
 
 Released February 2020.
 
@@ -44,33 +44,13 @@ First Header | Second Autor | Third Autor | Fourth Autor | Fifth Autor | Sixth A
 First Image | Second Image | Second Image | Second Image | Second Image | Second Image | Second Image
 
 
-### **Markdown**
+## **Leaderboard**
 
-If you use Break in your research, please cite our paper with the following BibTeX entry
+### **Submission**
+Official Leaderboard submission.
 
-```markdown
+### **Results**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomerwolgithub/BreakWeb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Rank | Submission | Created | EM | SARI | GED
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- 
+First Image | Second Image | Second Image | Second Image | Second Image | Second Image
