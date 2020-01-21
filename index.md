@@ -21,12 +21,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 > Talent wins games,
 > but teamwork and intelligence wins championships.
 
-**Michael Jordan**
+*Michael Jordan*
 
-First Header | Second Header
------------- | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+First Header | Second Autor | Third Autor | Fourth Autor | Fifth Autor | Sixth Autor | Seventh Autor 
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+First Image | Second Image | Second Image | Second Image | Second Image | Second Image | Second Image
 
 
 ### **Markdown**
