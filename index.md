@@ -3,7 +3,7 @@
   <a href="https://allenai.org/">
     <img src="images/AI2_Logo_3color.png" height="98">
   </a>
-  <a href="https://https://www.tau-nlp.org/">
+  <a href="https://www.tau-nlp.org/">
     <img src="images/tau_nlp-1.png" height="100">
   </a>
 </p>
