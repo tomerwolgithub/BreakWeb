@@ -17,7 +17,7 @@ Released February 2020.
 ## **Paper**
 
 <a href="https://arxiv.org/">
-**Paper Name**
+  **Paper Name**
 </a>
 
 ```markdown
