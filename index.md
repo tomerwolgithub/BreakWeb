@@ -56,13 +56,13 @@ Publication Venue 2020
   </div>
 </div>
 <div class="card">
-  <img src="images/author_first.jpg" alt="Avatar" style="width:100%">
+  <img src="https://mega002.github.io/assets/static/profile.png" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>John Doe</b></h4> 
   </div>
 </div>
 <div class="card">
-  <img src="images/author_first.jpg" alt="Avatar" style="width:100%">
+  <img src="https://sites.googhttps//lh5.googleusercontent.com/iGbQUFZCjLxxEnY4aR_PbLVkjy6Gh6c-IshsoM3GPtZ4XaXMKdP2OpwXhXzKM4WJuF4YtYnfLdcmLxMhRI8x3Muueo9NJVH_k53srOBqPcQc_WiBG8w=w1280e.com/view/ag1988/" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>John Doe</b></h4> 
   </div>
