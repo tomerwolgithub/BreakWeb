@@ -18,10 +18,10 @@ Released February 2020.
 
 
 <a href="https://arxiv.org/">
-  **Paper Name**
+  **Paper Name**  
 </a>
-*Authors List*
-Publication Venue 2020
+*Authors List*  
+Publication Venue 2020  
 
 ```markdown
 @inproceedings{some2020paper,
@@ -34,7 +34,7 @@ Publication Venue 2020
 
 ## **Authors**
 
-> Talent wins games,
+> Talent wins games,  
 > but teamwork and intelligence wins championships.
 
 *Michael Jordan*
