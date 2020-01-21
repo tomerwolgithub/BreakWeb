@@ -13,12 +13,56 @@
 Released February 2020.  
 See our blogpost at: <a href="somelink">some link</a>.  
 
+<div>
 <div class="card">
-  <img src="images/author_first.jpg" height="70" alt="Avatar" style="width:100%">
+  <img src="images/author_first.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>John Doe</b></h4> 
     <p>Architect & Engineer</p> 
   </div>
+</div>
+<div class="card">
+  <img src="images/author_first.jpg" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+    <p>Architect & Engineer</p> 
+  </div>
+</div>
+<div class="card">
+  <img src="images/author_first.jpg" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+    <p>Architect & Engineer</p> 
+  </div>
+</div>
+<div class="card">
+  <img src="images/author_first.jpg" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+    <p>Architect & Engineer</p> 
+  </div>
+</div>
+<div class="card">
+  <img src="images/author_first.jpg" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+    <p>Architect & Engineer</p> 
+  </div>
+</div>
+<div class="card">
+  <img src="images/author_first.jpg" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+    <p>Architect & Engineer</p> 
+  </div>
+</div>
+<div class="card">
+  <img src="images/author_first.jpg" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+    <p>Architect & Engineer</p> 
+  </div>
+</div>
 </div>
 
 1. [x] Merit number one
