@@ -13,10 +13,8 @@
 Released February 2020.  
 See our blogpost at: <a href="somelink">some link</a>.  
 
-<a href="{{ site.github.tar_url }}" class="btn">a button</a>
-
-- [x] Merit number one
-- [X] Merit number two
+ [x] Merit number one
+ [X] Merit number two
 
 Contains questions over modality 1 from <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a> and <a href="somelink">**Dataset1**</a>.  
 Contains questions over modality 2 from <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a> and <a href="somelink">**Dataset1**</a>.  
