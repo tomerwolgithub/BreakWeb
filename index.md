@@ -39,34 +39,10 @@ Publication Venue 2020
 
 *Michael Jordan*
 
-First Header | Second Author | Third Autor | Fourth Autor | Fifth Autor | Sixth Autor | Seventh Autor 
+First Author | Second Author | Third Autor | Fourth Autor | Fifth Autor | Sixth Autor | Seventh Autor 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 First Image | Second Image | Second Image | Second Image | Second Image | Second Image | Second Image
 
-
-<p float="left>
-  <p>
-    First Author  
-  </p>
-  <p>
-    Second Author  
-  </p>
-  <p>
-    Third Author  
-  </p>
-  <p>
-    Fourth Author  
-  </p>
-  <p>
-    Fifth Author  
-  </p>
-  <p>
-    Sixth Author  
-  </p>
-  <p>
-    Seventh Author  
-  </p>
-</p> 
 
 ## **Leaderboard**
 
