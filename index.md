@@ -10,8 +10,7 @@
 
 ## **A Question Understanding Benchmark**
 
-Released  
-February 2020.
+Released February 2020.
 
 
 
@@ -19,7 +18,7 @@ February 2020.
 
 
 <a href="https://arxiv.org/">
-  **Paper Name**
+  **Paper Name**  
 </a>
 *Authors List*  
 Publication Venue 2020  
