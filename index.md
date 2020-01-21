@@ -2,7 +2,7 @@
   <img src="images/hammer_and_anvil-1.png" height="100">
   <img src="images/tau_nlp-1.png" height="100">
 </p>
-<img src="images/AI2_Logo_3color.png" height="100">
+<img src="images/AI2_Logo_3color.png" height="70">
 
 ## A Question Understanding Benchmark
 
