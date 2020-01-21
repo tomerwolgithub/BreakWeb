@@ -86,7 +86,7 @@ Publication Venue 2020
   </div>
 </div>
 <div class="card">
-  <img src="images/author_first.jpg" alt="Avatar" style="width:100%">
+  <img src="http://www.cs.tau.ac.il/~joberant/homepage_files/me.png" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>John Doe</b></h4> 
   </div>
