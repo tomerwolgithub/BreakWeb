@@ -53,5 +53,5 @@ Official Leaderboard submission.
 
 Rank :white_check_mark: | Submission | Created | EM Dev. | EM Test
 ------------ | ------------- | ------------- | ------------- | -------------
-First Model | First Model | First Model | First Model | `renders`
-Second Model | Second Model | Second Model | Second Model | `renders` 
+First Model | First Model | First Model | `00.00`  | `00.00`
+Second Model | Second Model | Second Model | `00.00`  | `00.00` 
