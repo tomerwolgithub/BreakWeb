@@ -44,29 +44,29 @@ First Header | Second Author | Third Autor | Fourth Autor | Fifth Autor | Sixth 
 First Image | Second Image | Second Image | Second Image | Second Image | Second Image | Second Image
 
 
-<div float="left>
-  <div>
+<p float="left>
+  <p>
     First Author  
-  </div>
-  <div>
+  </p>
+  <p>
     Second Author  
-  </div>
-  <div>
+  </p>
+  <p>
     Third Author  
-  </div>
-  <div>
+  </p>
+  <p>
     Fourth Author  
-  </div>
-  <div>
+  </p>
+  <p>
     Fifth Author  
-  </div>
-  <div>
+  </p>
+  <p>
     Sixth Author  
-  </div>
-  <div>
+  </p>
+  <p>
     Seventh Author  
-  </div>
-</div> 
+  </p>
+</p> 
 
 ## **Leaderboard**
 
