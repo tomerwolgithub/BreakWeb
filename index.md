@@ -43,8 +43,7 @@ Publication Venue 2020
 
 ## **Authors**
 
-> Talent wins games,  
-> but teamwork and intelligence wins championships.
+> Talent wins games, but teamwork and intelligence wins championships.
 
 *Michael Jordan*
 
