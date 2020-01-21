@@ -107,7 +107,7 @@ Rank | Submission | Created | EM Dev. | EM Test
 
 
 ## **Explore**
-Click here 
+[Link to blogpost](/explore.md).
 
 ## **Download**
 Click here
