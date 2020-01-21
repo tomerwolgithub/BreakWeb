@@ -18,13 +18,10 @@ Released February 2020.
 
 
 <a href="https://arxiv.org/">
-  **Paper Name**  
+  **Paper Name**
 </a>
-<br/>
 *Authors List*  
-<br/>
 Publication Venue 2020  
-<br/>
 
 ```markdown
 @inproceedings{some2020paper,
