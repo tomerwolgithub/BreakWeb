@@ -43,6 +43,15 @@ First Author | Second Author | Third Autor | Fourth Autor | Fifth Autor | Sixth 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 First Image | Second Image | Second Image | Second Image | Second Image | Second Image | Second Image
 
+<p float="left">
+  <a>
+    some text
+  </a>
+  <a>
+    other text
+  </a>
+</p>
+
 
 ## **Leaderboard**
 
