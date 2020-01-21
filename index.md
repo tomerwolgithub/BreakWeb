@@ -51,6 +51,7 @@ Official Leaderboard submission.
 
 ### **Results**
 
-Rank | Submission | Created | EM | SARI | GED
------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
-First Image | Second Image | Second Image | Second Image | Second Image | Second Image
+Rank | Submission | Created | EM Dev. | EM Test
+------------ | ------------- | ------------- | ------------- | -------------
+First Model | First Model | First Model | First Model | First Model 
+Second Model | Second Model | Second Model | Second Model | Second Model 
