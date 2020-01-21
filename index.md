@@ -20,6 +20,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 > Talent wins games,
 > but teamwork and intelligence wins championships.
+
 **Michael Jordan**
 
 
