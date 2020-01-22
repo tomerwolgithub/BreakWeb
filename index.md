@@ -17,7 +17,13 @@ Released February 2020.
 - Merit number two
 
 <p class="note">
-    My first note
+    *"Some question"*
+</p>
+<p class="note">
+    *"A totally different and complex question"*
+</p>
+<p class="note">
+    *"A totally other question"*
 </p>
 
 Contains questions over modality 1 from <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a> and <a href="somelink">**Dataset1**</a>.  
