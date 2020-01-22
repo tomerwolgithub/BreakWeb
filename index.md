@@ -17,13 +17,15 @@ Released February 2020.
 - Merit number two
 
 <p class="note">
-    *"Some question"*
+    <i>"Some question"</i>
 </p>
+<br/>
 <p class="note">
-    *"A totally different and complex question"*
+  <i>"A totally different and complex question"</i>
 </p>
+<br/>
 <p class="note">
-    *"A totally other question"*
+    <i>"A totally other question"</i>
 </p>
 
 Contains questions over modality 1 from <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a> and <a href="somelink">**Dataset1**</a>.  
